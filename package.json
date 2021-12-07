@@ -1,6 +1,6 @@
 {
-	"author": "Selçuk Kalafat",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Selcuk Kalafat",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
